@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="dbcp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.json-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.json-api-1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lombok (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.25.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib/dbcp" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/dbcp" recursive="false" />
+  </library>
+</component>
